@@ -14,13 +14,13 @@ x install uuinfo
 
 ## 代码洞察
 
-合计: **5,617** 行代码（覆盖前 5 种语言、共 **63** 个文件）。
+合计: **5,719** 行代码（覆盖前 5 种语言、共 **64** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 5,539 | 91 | 457 | 58 |
-| Toml | 78 | 0 | 5 | 2 |
-| Markdown | 0 | 360 | 224 | 3 |
+| Rust | 5,644 | 91 | 473 | 59 |
+| Toml | 75 | 0 | 5 | 2 |
+| Markdown | 0 | 363 | 228 | 3 |
 
 ## 源代码
 
@@ -29,8 +29,8 @@ x install uuinfo
 
 ## 发布
 
-- **最新版本**: `v0.7.5` (2026-05-31)
-- **最近提交**: 2026-05-31
+- **最新版本**: `v0.8.0` (2026-11-19)
+- **最近提交**: 2026-11-19
 - **Release 含资产**: 7 个
 
 ## 流行度
@@ -39,30 +39,30 @@ x install uuinfo
 
 ## 累计统计
 
-- **发布数**: 4 · **已合并 PR**: 1 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 116
+- **发布数**: 5 · **已合并 PR**: 1 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 117
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-23 | 1 | 0 | 0 | 0 | 0 | 3 |
-| 360d | 2025-11-24 | 4 | 0 | 0 | 0 | 0 | 27 |
-| last720d | 2024-11-29 | 4 | 1 | 0 | 0 | 0 | 111 |
+| 30d | 2026-10-21 | 1 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-21 | 1 | 0 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-22 | 1 | 0 | 0 | 0 | 0 | 1 |
+| last180d | 2026-05-24 | 2 | 0 | 0 | 0 | 0 | 4 |
+| 360d | 2025-11-25 | 5 | 0 | 0 | 0 | 0 | 28 |
+| last720d | 2024-11-30 | 5 | 1 | 0 | 0 | 0 | 110 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [uuinfo-linux-aarch64.tar.gz](https://github.com/Racum/uuinfo/releases/download/v0.7.5/uuinfo-linux-aarch64.tar.gz) | 864.5 KiB | `native/linux/arm64` |
-| [uuinfo-linux-x86_64.tar.gz](https://github.com/Racum/uuinfo/releases/download/v0.7.5/uuinfo-linux-x86_64.tar.gz) | 943.5 KiB | `native/linux/x64` |
-| [uuinfo-macos-v0.7.5.tar.gz](https://github.com/Racum/uuinfo/releases/download/v0.7.5/uuinfo-macos-v0.7.5.tar.gz) | 1.5 MiB | `native/darwin/x64` |
-| [uuinfo-windows-aarch64.zip](https://github.com/Racum/uuinfo/releases/download/v0.7.5/uuinfo-windows-aarch64.zip) | 829.3 KiB | `native/win/arm64` |
-| [uuinfo-windows-x86_64.zip](https://github.com/Racum/uuinfo/releases/download/v0.7.5/uuinfo-windows-x86_64.zip) | 886.3 KiB | `native/win/x64` |
-| [uuinfo_0.7.5_amd64.deb](https://github.com/Racum/uuinfo/releases/download/v0.7.5/uuinfo_0.7.5_amd64.deb) | 718.0 KiB | `runtime/deb/amd64` |
-| [uuinfo_0.7.5_arm64.deb](https://github.com/Racum/uuinfo/releases/download/v0.7.5/uuinfo_0.7.5_arm64.deb) | 630.8 KiB | `runtime/deb/arm64` |
+| [uuinfo-linux-aarch64.tar.gz](https://github.com/Racum/uuinfo/releases/download/v0.8.0/uuinfo-linux-aarch64.tar.gz) | 838.6 KiB | `native/linux/arm64` |
+| [uuinfo-linux-x86_64.tar.gz](https://github.com/Racum/uuinfo/releases/download/v0.8.0/uuinfo-linux-x86_64.tar.gz) | 917.0 KiB | `native/linux/x64` |
+| [uuinfo-macos-v0.8.0.tar.gz](https://github.com/Racum/uuinfo/releases/download/v0.8.0/uuinfo-macos-v0.8.0.tar.gz) | 1.5 MiB | `native/darwin/x64` |
+| [uuinfo-windows-aarch64.zip](https://github.com/Racum/uuinfo/releases/download/v0.8.0/uuinfo-windows-aarch64.zip) | 846.5 KiB | `native/win/arm64` |
+| [uuinfo-windows-x86_64.zip](https://github.com/Racum/uuinfo/releases/download/v0.8.0/uuinfo-windows-x86_64.zip) | 890.5 KiB | `native/win/x64` |
+| [uuinfo_0.8.0_amd64.deb](https://github.com/Racum/uuinfo/releases/download/v0.8.0/uuinfo_0.8.0_amd64.deb) | 706.1 KiB | `runtime/deb/amd64` |
+| [uuinfo_0.8.0_arm64.deb](https://github.com/Racum/uuinfo/releases/download/v0.8.0/uuinfo_0.8.0_arm64.deb) | 618.1 KiB | `runtime/deb/arm64` |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ uuinfo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261119.yml` · 2026-11-19T08:53:22Z._
+_数据快照: `data/card/261120.yml` · 2026-11-20T08:09:01Z._

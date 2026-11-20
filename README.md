@@ -14,13 +14,13 @@ x install uuinfo
 
 ## Code insight
 
-Total: **5,617** lines of code across **63** files in the top 5 languages.
+Total: **5,719** lines of code across **64** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 5,539 | 91 | 457 | 58 |
-| Toml | 78 | 0 | 5 | 2 |
-| Markdown | 0 | 360 | 224 | 3 |
+| Rust | 5,644 | 91 | 473 | 59 |
+| Toml | 75 | 0 | 5 | 2 |
+| Markdown | 0 | 363 | 228 | 3 |
 
 ## Source
 
@@ -29,8 +29,8 @@ Total: **5,617** lines of code across **63** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.7.5` (2026-05-31)
-- **Last commit**: 2026-05-31
+- **Latest**: `v0.8.0` (2026-11-19)
+- **Last commit**: 2026-11-19
 - **Assets in release**: 7
 
 ## Popularity
@@ -39,30 +39,30 @@ Total: **5,617** lines of code across **63** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 1 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 116
+- **Releases**: 5 · **Merged PRs**: 1 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 117
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-23 | 1 | 0 | 0 | 0 | 0 | 3 |
-| 360d | 2025-11-24 | 4 | 0 | 0 | 0 | 0 | 27 |
-| last720d | 2024-11-29 | 4 | 1 | 0 | 0 | 0 | 111 |
+| 30d | 2026-10-21 | 1 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-21 | 1 | 0 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-22 | 1 | 0 | 0 | 0 | 0 | 1 |
+| last180d | 2026-05-24 | 2 | 0 | 0 | 0 | 0 | 4 |
+| 360d | 2025-11-25 | 5 | 0 | 0 | 0 | 0 | 28 |
+| last720d | 2024-11-30 | 5 | 1 | 0 | 0 | 0 | 110 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [uuinfo-linux-aarch64.tar.gz](https://github.com/Racum/uuinfo/releases/download/v0.7.5/uuinfo-linux-aarch64.tar.gz) | 864.5 KiB | `native/linux/arm64` |
-| [uuinfo-linux-x86_64.tar.gz](https://github.com/Racum/uuinfo/releases/download/v0.7.5/uuinfo-linux-x86_64.tar.gz) | 943.5 KiB | `native/linux/x64` |
-| [uuinfo-macos-v0.7.5.tar.gz](https://github.com/Racum/uuinfo/releases/download/v0.7.5/uuinfo-macos-v0.7.5.tar.gz) | 1.5 MiB | `native/darwin/x64` |
-| [uuinfo-windows-aarch64.zip](https://github.com/Racum/uuinfo/releases/download/v0.7.5/uuinfo-windows-aarch64.zip) | 829.3 KiB | `native/win/arm64` |
-| [uuinfo-windows-x86_64.zip](https://github.com/Racum/uuinfo/releases/download/v0.7.5/uuinfo-windows-x86_64.zip) | 886.3 KiB | `native/win/x64` |
-| [uuinfo_0.7.5_amd64.deb](https://github.com/Racum/uuinfo/releases/download/v0.7.5/uuinfo_0.7.5_amd64.deb) | 718.0 KiB | `runtime/deb/amd64` |
-| [uuinfo_0.7.5_arm64.deb](https://github.com/Racum/uuinfo/releases/download/v0.7.5/uuinfo_0.7.5_arm64.deb) | 630.8 KiB | `runtime/deb/arm64` |
+| [uuinfo-linux-aarch64.tar.gz](https://github.com/Racum/uuinfo/releases/download/v0.8.0/uuinfo-linux-aarch64.tar.gz) | 838.6 KiB | `native/linux/arm64` |
+| [uuinfo-linux-x86_64.tar.gz](https://github.com/Racum/uuinfo/releases/download/v0.8.0/uuinfo-linux-x86_64.tar.gz) | 917.0 KiB | `native/linux/x64` |
+| [uuinfo-macos-v0.8.0.tar.gz](https://github.com/Racum/uuinfo/releases/download/v0.8.0/uuinfo-macos-v0.8.0.tar.gz) | 1.5 MiB | `native/darwin/x64` |
+| [uuinfo-windows-aarch64.zip](https://github.com/Racum/uuinfo/releases/download/v0.8.0/uuinfo-windows-aarch64.zip) | 846.5 KiB | `native/win/arm64` |
+| [uuinfo-windows-x86_64.zip](https://github.com/Racum/uuinfo/releases/download/v0.8.0/uuinfo-windows-x86_64.zip) | 890.5 KiB | `native/win/x64` |
+| [uuinfo_0.8.0_amd64.deb](https://github.com/Racum/uuinfo/releases/download/v0.8.0/uuinfo_0.8.0_amd64.deb) | 706.1 KiB | `runtime/deb/amd64` |
+| [uuinfo_0.8.0_arm64.deb](https://github.com/Racum/uuinfo/releases/download/v0.8.0/uuinfo_0.8.0_arm64.deb) | 618.1 KiB | `runtime/deb/arm64` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for uuinfo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:53:21Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:09:01Z._
