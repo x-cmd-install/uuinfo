@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 939024,
       "digest": "sha256:5aa9ef60a36e971bb644551904460ac2e363c82ec22b7c1ead33544959f95106",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-19T18:36:17Z",
       "updated_at": "2026-11-19T18:36:18Z",
       "browser_download_url": "https://github.com/Racum/uuinfo/releases/download/v0.8.0/uuinfo-linux-x86_64.tar.gz"
