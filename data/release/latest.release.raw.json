@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 939024,
       "digest": "sha256:5aa9ef60a36e971bb644551904460ac2e363c82ec22b7c1ead33544959f95106",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-11-19T18:36:17Z",
       "updated_at": "2026-11-19T18:36:18Z",
       "browser_download_url": "https://github.com/Racum/uuinfo/releases/download/v0.8.0/uuinfo-linux-x86_64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 911826,
       "digest": "sha256:b6772ddbfbf64920a620beecbdfd107f556becb7a658ca5172197d6e874cbc0d",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-19T18:37:06Z",
       "updated_at": "2026-11-19T18:37:07Z",
       "browser_download_url": "https://github.com/Racum/uuinfo/releases/download/v0.8.0/uuinfo-windows-x86_64.zip"
